@@ -1,0 +1,19 @@
+{
+  "name": "ics",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "icalendar": "~0.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://yamitzky.com/var/git/ics.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

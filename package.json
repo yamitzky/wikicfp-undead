@@ -1,7 +1,7 @@
 {
-  "name": "ics",
+  "name": "wikicfp-undead",
   "version": "0.0.0",
-  "description": "",
+  "description": "WikiCFP iCalendar proxy to extract conference dates(rejecting deadlines and dues)",
   "main": "app.js",
   "dependencies": {
     "icalendar": "~0.6.5"
@@ -14,6 +14,10 @@
     "type": "git",
     "url": "ssh://yamitzky.com/var/git/ics.git"
   },
-  "author": "",
-  "license": "BSD-2-Clause"
+  "author": "Yamitzky",
+  "license": "The MIT License",
+  "keywords": [
+    "WikiCFP",
+    "iCalendar"
+  ]
 }
